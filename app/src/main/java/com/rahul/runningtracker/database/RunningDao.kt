@@ -7,7 +7,12 @@ import com.rahul.runningtracker.model.RanData
 @Dao
 interface  RunningDao {
 
-    /** Running fragment queries ****************************************************************/
+    /** Running fragment queries ****************************************************************
+     *
+     * some functions are not suspend because they are used for getting live data. As  live data is
+     * already asynchronous
+     */
+
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertRun(run : RanData)
