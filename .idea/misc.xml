@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.16822916666666668" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_running.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_set_up.xml" value="0.26328800988875156" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_settings.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_statistics.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_tracking.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/RunningTracker/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14791666666666667" />
       </map>
     </option>
